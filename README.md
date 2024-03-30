@@ -1,0 +1,2 @@
+# walmart-receipt-item-categorizer
+ 
